@@ -19,4 +19,6 @@ You'll need to edit the Makefile.vcs file and change the variable 'UVM_HOME' to 
 Explanation of the code
 -----------------------
 
-An explanation of this UVM testbench can be found at: http://colorlesscube.com/uvm-guide-for-beginners/
+An explanation of this UVM testbench can be found at: https://colorlesscube.com/uvm-guide-for-beginners/
+
+
