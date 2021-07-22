@@ -1,6 +1,8 @@
-How to run
-----------
+1 ví dụ Full giáp từ specification, design, SV-UVM testbench environment, test, scoreboard, coverage cho bạn nào muốn tự học UVM.
 
+How to run
+
+----------
 This Makefile is made to be used with Synopsys VCS but it should be easily adaptable to any SystemVerilog simulator.
 
 To run the simulation you just need to type:
